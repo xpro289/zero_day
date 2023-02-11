@@ -1,1 +1,2 @@
-This file is mandatory in projects
+*Emphasize* _emphasize_
+**Strong** __Strong__
