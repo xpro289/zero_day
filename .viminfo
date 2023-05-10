@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :x
-|2,0,1683548621,,"x"
+|2,0,1683570506,,"x"
 
 # Search String History (newest to oldest):
 
@@ -25,14 +25,27 @@
 # Registers:
 
 # File marks:
-'0  1  2  ~/0x01_emacs/cutting
-|4,48,1,2,1683548621,"~/0x01_emacs/cutting"
+'0  1  16  ~/zero_day/README.md
+|4,48,1,16,1683570506,"~/zero_day/README.md"
+'1  1  2  ~/0x01_emacs/cutting
+|4,49,1,2,1683548621,"~/0x01_emacs/cutting"
 
 # Jumplist (newest first):
+-'  1  16  ~/zero_day/README.md
+|4,39,1,16,1683570506,"~/zero_day/README.md"
+-'  1  2  ~/0x01_emacs/cutting
+|4,39,1,2,1683548621,"~/0x01_emacs/cutting"
 -'  1  2  ~/0x01_emacs/cutting
 |4,39,1,2,1683548621,"~/0x01_emacs/cutting"
 
 # History of marks within files (newest to oldest):
+
+> ~/zero_day/README.md
+	*	1683570502	0
+	"	1	16
+	^	1	17
+	.	1	16
+	+	1	16
 
 > ~/0x01_emacs/cutting
 	*	1683548620	0
